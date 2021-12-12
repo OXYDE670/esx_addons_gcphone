@@ -1,6 +1,3 @@
-Author: OXYDE#0001
-
-
 ##GCphone esx_addons_gcphone
 
 1 **Importer les fichier mysql vers votre database ``base.sql``,``sim.sql``, `twitter.sql`,
